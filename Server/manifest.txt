@@ -1,0 +1,2 @@
+Main-Class: Server
+Class-Path: C:\Users\A01207405\Documents\PROYECTOFINAL\Server\lib\*
