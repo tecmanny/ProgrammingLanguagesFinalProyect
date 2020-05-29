@@ -271,15 +271,7 @@ public class Server {
 								    }
 								    //AVERAGE HERALDS PER GAME
 								    double AvgHeralds = HeraldsTotal/numH.size();
-													System.out.println(WP);
-													System.out.println(LP);
-													System.out.println(AvgTime);
-													System.out.println(AvgTowers);
-													System.out.println(AvgDragons);
-													System.out.println(AvgBarons);
-													System.out.println(AvgHeralds);
-
-
+										
 
 										CreationHelper createHelper = wb.getCreationHelper();
 												String safeName = WorkbookUtil.createSafeSheetName("[Output*?]"); // returns " O'Brien's sales   "
