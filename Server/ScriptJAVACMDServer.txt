@@ -1,1 +1,1 @@
-java -cp .;C:\Users\A01207405\Documents\PROYECTOFINAL\Server\lib\*; Server.java
+java -cp .;C:\Users\A01207405\Documents\ProgrammingLanguagesFinalProyect\Server\lib\*; Server.java
